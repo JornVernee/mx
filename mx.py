@@ -13035,6 +13035,10 @@ pylint_ver_map = {
     (1, 9): {
         'rcfile': '.pylintrc19',
         'additional_options': ['--score=n']
+    },
+    (2, 2): {
+        'rcfile': '.pylintrc22',
+        'additional_options': ['--score=n']
     }
 }
 
